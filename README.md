@@ -1,6 +1,6 @@
 
 # Funcodedo
-Our idea 
+
  As we all know the economic impact of natural disasters can run into billions and insurance policies are a great way to minimise personal losses. Typical homeowners insurance policies offer coverage for damage caused by fires, lightning strikes, windstorms and hail. But, it's important to know that not all natural disasters are covered by homeowners insurance. Not only that but only about 5% of the people in india opt for a homeowners insurance.When others were asked why they do not have an insurance policy this was the response:
 - 66% say it’s just too expensive for them.
 - 66% say other financial priorities take higher precedence.
